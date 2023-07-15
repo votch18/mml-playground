@@ -2,7 +2,7 @@
   "name": "mml-playground",
   "private": true,
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "scripts": {
     "preinstall": "node check-node-version.js",
